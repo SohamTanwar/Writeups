@@ -1,2 +1,2 @@
 # Writeups
-In this i will be uploading all the writeups of Hackthebox, tryhackme and vulnhub machines.
+In this i will be uploading all the writeups of Hackthebox and vulnhub machines.
